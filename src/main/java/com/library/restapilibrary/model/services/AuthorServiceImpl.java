@@ -1,9 +1,9 @@
-package com.library.restapibookstore.model.services;
+package com.library.restapilibrary.model.services;
 
-import com.library.restapibookstore.exceptions.NotFoundExceptions;
-import com.library.restapibookstore.model.entities.Author;
-import com.library.restapibookstore.model.repositories.AuthorRepository;
-import com.library.restapibookstore.model.services.interfaces.AuthorService;
+import com.library.restapilibrary.exceptions.NotFoundExceptions;
+import com.library.restapilibrary.model.entities.Author;
+import com.library.restapilibrary.model.repositories.AuthorRepository;
+import com.library.restapilibrary.model.services.interfaces.AuthorService;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataIntegrityViolationException;

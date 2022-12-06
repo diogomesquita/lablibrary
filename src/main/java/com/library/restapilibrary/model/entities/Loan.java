@@ -1,4 +1,4 @@
-package com.library.restapibookstore.model.entities;
+package com.library.restapilibrary.model.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -42,4 +42,3 @@ public class Loan implements Serializable {
         this.client = client;
     }
 }
-

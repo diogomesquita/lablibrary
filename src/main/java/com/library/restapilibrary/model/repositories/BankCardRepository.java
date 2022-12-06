@@ -1,6 +1,6 @@
-package com.library.restapibookstore.model.repositories;
+package com.library.restapilibrary.model.repositories;
 
-import com.library.restapibookstore.model.entities.BankCard;
+import com.library.restapilibrary.model.entities.BankCard;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

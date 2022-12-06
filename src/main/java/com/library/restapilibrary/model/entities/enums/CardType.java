@@ -1,4 +1,4 @@
-package com.library.restapibookstore.model.entities.enums;
+package com.library.restapilibrary.model.entities.enums;
 
 public enum CardType {
     DEBIT,

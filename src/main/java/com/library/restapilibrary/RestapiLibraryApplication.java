@@ -1,4 +1,4 @@
-package com.library.restapibookstore;
+package com.library.restapilibrary;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

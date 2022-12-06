@@ -1,8 +1,8 @@
-package com.library.restapibookstore.controllers;
+package com.library.restapilibrary.controllers;
 
-import com.library.restapibookstore.model.entities.BankCard;
-import com.library.restapibookstore.model.entities.dtos.BankCardDto;
-import com.library.restapibookstore.model.services.interfaces.BankCardService;
+import com.library.restapilibrary.model.entities.BankCard;
+import com.library.restapilibrary.model.entities.dtos.BankCardDto;
+import com.library.restapilibrary.model.services.interfaces.BankCardService;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

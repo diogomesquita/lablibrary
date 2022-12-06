@@ -1,6 +1,6 @@
-package com.library.restapibookstore.model.entities.dtos;
+package com.library.restapilibrary.model.entities.dtos;
 
-import com.library.restapibookstore.model.entities.Author;
+import com.library.restapilibrary.model.entities.Author;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

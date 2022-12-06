@@ -1,6 +1,6 @@
-package com.library.restapibookstore.model.services.interfaces;
+package com.library.restapilibrary.model.services.interfaces;
 
-import com.library.restapibookstore.model.entities.Client;
+import com.library.restapilibrary.model.entities.Client;
 
 import java.util.List;
 

@@ -1,12 +1,12 @@
-package com.library.restapibookstore.controllers;
+package com.library.restapilibrary.controllers;
 
-import com.library.restapibookstore.model.entities.Book;
-import com.library.restapibookstore.model.entities.Client;
-import com.library.restapibookstore.model.entities.Loan;
-import com.library.restapibookstore.model.entities.dtos.BookDto;
-import com.library.restapibookstore.model.entities.dtos.ClientDto;
-import com.library.restapibookstore.model.entities.dtos.LoanDto;
-import com.library.restapibookstore.model.services.interfaces.LoanService;
+import com.library.restapilibrary.model.entities.Book;
+import com.library.restapilibrary.model.entities.Client;
+import com.library.restapilibrary.model.entities.Loan;
+import com.library.restapilibrary.model.entities.dtos.BookDto;
+import com.library.restapilibrary.model.entities.dtos.ClientDto;
+import com.library.restapilibrary.model.entities.dtos.LoanDto;
+import com.library.restapilibrary.model.services.interfaces.LoanService;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

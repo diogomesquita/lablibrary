@@ -1,8 +1,8 @@
-package com.library.restapibookstore.controllers;
+package com.library.restapilibrary.controllers;
 
-import com.library.restapibookstore.model.entities.Author;
-import com.library.restapibookstore.model.entities.dtos.AuthorDto;
-import com.library.restapibookstore.model.services.interfaces.AuthorService;
+import com.library.restapilibrary.model.entities.Author;
+import com.library.restapilibrary.model.entities.dtos.AuthorDto;
+import com.library.restapilibrary.model.services.interfaces.AuthorService;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

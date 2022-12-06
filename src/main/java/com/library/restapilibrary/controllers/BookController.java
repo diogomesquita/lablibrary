@@ -1,7 +1,7 @@
-package com.library.restapibookstore.controllers;
+package com.library.restapilibrary.controllers;
 
-import com.library.restapibookstore.model.entities.Book;
-import com.library.restapibookstore.model.services.interfaces.BookService;
+import com.library.restapilibrary.model.entities.Book;
+import com.library.restapilibrary.model.services.interfaces.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

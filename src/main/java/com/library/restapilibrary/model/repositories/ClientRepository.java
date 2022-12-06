@@ -1,6 +1,6 @@
-package com.library.restapibookstore.model.repositories;
+package com.library.restapilibrary.model.repositories;
 
-import com.library.restapibookstore.model.entities.Client;
+import com.library.restapilibrary.model.entities.Client;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ClientRepository extends JpaRepository<Client, Long> {

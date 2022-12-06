@@ -1,12 +1,12 @@
-package com.library.restapibookstore.model.services;
+package com.library.restapilibrary.model.services;
 
-import com.library.restapibookstore.exceptions.DeadbeatExcepion;
-import com.library.restapibookstore.exceptions.NotFoundExceptions;
-import com.library.restapibookstore.model.entities.Book;
-import com.library.restapibookstore.model.entities.Client;
-import com.library.restapibookstore.model.entities.Loan;
-import com.library.restapibookstore.model.repositories.LoanRepository;
-import com.library.restapibookstore.model.services.interfaces.LoanService;
+import com.library.restapilibrary.exceptions.DeadbeatExcepion;
+import com.library.restapilibrary.exceptions.NotFoundExceptions;
+import com.library.restapilibrary.model.entities.Book;
+import com.library.restapilibrary.model.entities.Client;
+import com.library.restapilibrary.model.entities.Loan;
+import com.library.restapilibrary.model.repositories.LoanRepository;
+import com.library.restapilibrary.model.services.interfaces.LoanService;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataIntegrityViolationException;

@@ -1,4 +1,4 @@
-package com.library.restapibookstore.exceptions;
+package com.library.restapilibrary.exceptions;
 
 public class DeadbeatExcepion extends RuntimeException{
 

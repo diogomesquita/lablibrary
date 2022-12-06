@@ -1,4 +1,4 @@
-package com.library.restapibookstore.exceptions;
+package com.library.restapilibrary.exceptions;
 
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.HttpStatus;

@@ -1,8 +1,8 @@
-package com.library.restapibookstore.model.services.interfaces;
+package com.library.restapilibrary.model.services.interfaces;
 
-import com.library.restapibookstore.model.entities.Book;
-import com.library.restapibookstore.model.entities.Client;
-import com.library.restapibookstore.model.entities.Loan;
+import com.library.restapilibrary.model.entities.Book;
+import com.library.restapilibrary.model.entities.Client;
+import com.library.restapilibrary.model.entities.Loan;
 
 import java.util.List;
 

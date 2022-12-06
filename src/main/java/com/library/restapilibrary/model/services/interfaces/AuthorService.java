@@ -1,6 +1,6 @@
-package com.library.restapibookstore.model.services.interfaces;
+package com.library.restapilibrary.model.services.interfaces;
 
-import com.library.restapibookstore.model.entities.Author;
+import com.library.restapilibrary.model.entities.Author;
 
 import java.util.List;
 public interface AuthorService {

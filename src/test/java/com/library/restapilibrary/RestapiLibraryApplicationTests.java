@@ -1,4 +1,4 @@
-package com.library.restapibookstore;
+package com.library.restapilibrary;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,7 +1,7 @@
-package com.library.restapibookstore.model.entities.dtos;
+package com.library.restapilibrary.model.entities.dtos;
 
-import com.library.restapibookstore.model.entities.Client;
-import com.library.restapibookstore.model.entities.enums.CardType;
+import com.library.restapilibrary.model.entities.Client;
+import com.library.restapilibrary.model.entities.enums.CardType;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

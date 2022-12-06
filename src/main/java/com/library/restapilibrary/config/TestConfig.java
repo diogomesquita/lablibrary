@@ -1,8 +1,8 @@
-package com.library.restapibookstore.config;
+package com.library.restapilibrary.config;
 
-import com.library.restapibookstore.model.entities.*;
-import com.library.restapibookstore.model.entities.enums.CardType;
-import com.library.restapibookstore.model.repositories.*;
+import com.library.restapilibrary.model.entities.*;
+import com.library.restapilibrary.model.entities.enums.CardType;
+import com.library.restapilibrary.model.repositories.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;

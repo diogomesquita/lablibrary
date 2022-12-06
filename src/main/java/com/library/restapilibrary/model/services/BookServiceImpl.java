@@ -1,9 +1,9 @@
-package com.library.restapibookstore.model.services;
+package com.library.restapilibrary.model.services;
 
-import com.library.restapibookstore.exceptions.NotFoundExceptions;
-import com.library.restapibookstore.model.entities.Book;
-import com.library.restapibookstore.model.repositories.BookRepository;
-import com.library.restapibookstore.model.services.interfaces.BookService;
+import com.library.restapilibrary.exceptions.NotFoundExceptions;
+import com.library.restapilibrary.model.entities.Book;
+import com.library.restapilibrary.model.repositories.BookRepository;
+import com.library.restapilibrary.model.services.interfaces.BookService;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

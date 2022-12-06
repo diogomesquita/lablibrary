@@ -1,8 +1,8 @@
-package com.library.restapibookstore.controllers;
+package com.library.restapilibrary.controllers;
 
-import com.library.restapibookstore.model.entities.Client;
-import com.library.restapibookstore.model.entities.dtos.ClientDto;
-import com.library.restapibookstore.model.services.interfaces.ClientService;
+import com.library.restapilibrary.model.entities.Client;
+import com.library.restapilibrary.model.entities.dtos.ClientDto;
+import com.library.restapilibrary.model.services.interfaces.ClientService;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

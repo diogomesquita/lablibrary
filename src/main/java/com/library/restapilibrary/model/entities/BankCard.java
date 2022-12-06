@@ -1,6 +1,6 @@
-package com.library.restapibookstore.model.entities;
+package com.library.restapilibrary.model.entities;
 
-import com.library.restapibookstore.model.entities.enums.CardType;
+import com.library.restapilibrary.model.entities.enums.CardType;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.AllArgsConstructor;
 import lombok.Data;
